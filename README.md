@@ -8,5 +8,5 @@ You can add or delete data, in this case car names, or you can choose to simply 
 
 I used a while loop to keep the code running so you can continuously add/delete things as you please, you can end the program by typing "exit" when prompted.
 
-In the future I would like to make it GUI based so you can click buttons instead of typing things,
-and i would like to add an API that displays info on cars of your choice when prompted to help you determine if you would like to add saidcar to your list of dream cars.
+In the future I would like to make it GUI based so you can click on your choices instead of havinf to type them out,
+and i would like to add an API that allows my program to display info on cars of your choice when prompted to help you determine if you would like to add said car to your list of dream cars.
